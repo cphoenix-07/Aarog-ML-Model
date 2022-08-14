@@ -1,0 +1,27 @@
+1. Features:
+id - id
+age - age
+bp -blood pressure
+sg - specific gravity
+al - Albumin
+su - sugar
+rbc - red blood cells
+pc - pus cell
+pcc - pus cell clumps
+ba - Bacteria
+bgr - blood glucose random
+bu - blood urea
+sc - serum creatinine
+sod - Sodium
+pot - Potassium
+hemo - Hemoglobin
+pcv - packed cell volume
+wc - white blood cell count
+rc - red blood cell count
+htn - hypertension
+dm - diabetes mellitus
+cad - coronary artery disease
+appet - appetite
+pe - pedal edema
+ane - Anemia
+classification - class
